@@ -1,75 +1,59 @@
-# alx-airbnb-project-documentation
+# ALX Airbnb Project - User Stories
 
-## user-stories
+This project is an Airbnb-style platform where users can book properties, hosts can list properties, and admins manage the platform.
 
-Objective: Create a data flow diagram (DFD) to map the data flow within the system.
+---
 
-Instructions:
+## User Stories
 
-Based on the features and functionalities identified in Task 1, design a Data Flow Diagram (DFD) using Draw.io that illustrates how data moves through the system. Include key entities like users, properties, bookings, and payments.
+### 1. Guest User
 
-The DFD should cover data inputs, processes, and outputs for core backend operations.
+**As a:** Guest user  
+**I want to:**
 
-Export your diagram as a PNG file as data-flow.png and store it in a directory called data-flow-diagram/ within your GitHub repository alx-airbnb-project-documentation.
+- Browse available properties with details such as location, price per night, host info, and reviews.
+- Filter properties based on location, price, or rating.
+- Make a booking for selected dates.
+- Pay for the booking securely using multiple payment options.
+- Leave a review and rating after my stay.
 
-Commit and push the changes to your GitHub repository.Objective: Create a data flow diagram (DFD) to map the data flow within the system.
+**So that:**
 
-Instructions:
+- I can find accommodations that meet my preferences and have confidence in the host.
+- I can track my bookings and manage my stays efficiently.
 
-Based on the features and functionalities identified in Task 1, design a Data Flow Diagram (DFD) using Draw.io that illustrates how data moves through the system. Include key entities like users, properties, bookings, and payments.
+---
 
-The DFD should cover data inputs, processes, and outputs for core backend operations.
+### 2. Host User
 
-Export your diagram as a PNG file as data-flow.png and store it in a directory called data-flow-diagram/ within your GitHub repository alx-airbnb-project-documentation.
+**As a:** Host user  
+**I want to:**
 
-Commit and push the changes to your GitHub repository.Objective: Create a data flow diagram (DFD) to map the data flow within the system.
+- Add and manage property details including name, description, location, and price.
+- View all bookings made for my properties.
+- Communicate with guests through messages.
+- Receive payments for completed bookings.
+- View reviews left by guests for my properties.
 
-Instructions:
+**So that:**
 
-Based on the features and functionalities identified in Task 1, design a Data Flow Diagram (DFD) using Draw.io that illustrates how data moves through the system. Include key entities like users, properties, bookings, and payments.
+- I can earn revenue from my property and manage my listings easily.
+- I can maintain a good reputation through guest feedback.
 
-The DFD should cover data inputs, processes, and outputs for core backend operations.
+---
 
-Export your diagram as a PNG file as data-flow.png and store it in a directory called data-flow-diagram/ within your GitHub repository alx-airbnb-project-documentation.
+### 3. Admin User
 
-Commit and push the changes to your GitHub repository.Objective: Create a data flow diagram (DFD) to map the data flow within the system.
+**As a:** Admin user  
+**I want to:**
 
-Instructions:
+- View, edit, or remove users.
+- Monitor property listings and bookings.
+- Manage payments and resolve disputes.
+- Moderate reviews and messages if necessary.
 
-Based on the features and functionalities identified in Task 1, design a Data Flow Diagram (DFD) using Draw.io that illustrates how data moves through the system. Include key entities like users, properties, bookings, and payments.
+**So that:**
 
-The DFD should cover data inputs, processes, and outputs for core backend operations.
+- The platform remains secure, trustworthy, and user-friendly for guests and hosts alike.
 
-Export your diagram as a PNG file as data-flow.png and store it in a directory called data-flow-diagram/ within your GitHub repository alx-airbnb-project-documentation.
-
-Commit and push the changes to your GitHub repository.Objective: Create a data flow diagram (DFD) to map the data flow within the system.
-
-Instructions:
-
-Based on the features and functionalities identified in Task 1, design a Data Flow Diagram (DFD) using Draw.io that illustrates how data moves through the system. Include key entities like users, properties, bookings, and payments.
-
-The DFD should cover data inputs, processes, and outputs for core backend operations.
-
-Export your diagram as a PNG file as data-flow.png and store it in a directory called data-flow-diagram/ within your GitHub repository alx-airbnb-project-documentation.
-
-Commit and push the changes to your GitHub repository.Objective: Create a data flow diagram (DFD) to map the data flow within the system.
-
-Instructions:
-
-Based on the features and functionalities identified in Task 1, design a Data Flow Diagram (DFD) using Draw.io that illustrates how data moves through the system. Include key entities like users, properties, bookings, and payments.
-
-The DFD should cover data inputs, processes, and outputs for core backend operations.
-
-Export your diagram as a PNG file as data-flow.png and store it in a directory called data-flow-diagram/ within your GitHub repository alx-airbnb-project-documentation.
-
-Commit and push the changes to your GitHub repository.Objective: Create a data flow diagram (DFD) to map the data flow within the system.
-
-Instructions:
-
-Based on the features and functionalities identified in Task 1, design a Data Flow Diagram (DFD) using Draw.io that illustrates how data moves through the system. Include key entities like users, properties, bookings, and payments.
-
-The DFD should cover data inputs, processes, and outputs for core backend operations.
-
-Export your diagram as a PNG file as data-flow.png and store it in a directory called data-flow-diagram/ within your GitHub repository alx-airbnb-project-documentation.
-
-Commit and push the changes to your GitHub repository.
+---
