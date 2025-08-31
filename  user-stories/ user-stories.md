@@ -1,59 +1,24 @@
 # ALX Airbnb Project - User Stories
 
-This project is an Airbnb-style platform where users can book properties, hosts can list properties, and admins manage the platform.
-
----
+This file documents core user stories derived from the use case diagram for the ALX Airbnb Project.
 
 ## User Stories
 
-### 1. Guest User
+1. **User Registration**
 
-**As a:** Guest user  
-**I want to:**
+   - As a user, I want to be able to register an account so that I can access the platform and list or book properties.
 
-- Browse available properties with details such as location, price per night, host info, and reviews.
-- Filter properties based on location, price, or rating.
-- Make a booking for selected dates.
-- Pay for the booking securely using multiple payment options.
-- Leave a review and rating after my stay.
+2. **Property Listing**
 
-**So that:**
+   - As a host, I want to be able to list my properties so that guests can view and book them.
 
-- I can find accommodations that meet my preferences and have confidence in the host.
-- I can track my bookings and manage my stays efficiently.
+3. **Booking a Property**
 
----
+   - As a guest, I want to be able to book a property so that I can secure accommodation for my travel dates.
 
-### 2. Host User
+4. **Leave a Review**
 
-**As a:** Host user  
-**I want to:**
+   - As a guest, I want to leave a review for a property I stayed in so that I can share my experience with other users.
 
-- Add and manage property details including name, description, location, and price.
-- View all bookings made for my properties.
-- Communicate with guests through messages.
-- Receive payments for completed bookings.
-- View reviews left by guests for my properties.
-
-**So that:**
-
-- I can earn revenue from my property and manage my listings easily.
-- I can maintain a good reputation through guest feedback.
-
----
-
-### 3. Admin User
-
-**As a:** Admin user  
-**I want to:**
-
-- View, edit, or remove users.
-- Monitor property listings and bookings.
-- Manage payments and resolve disputes.
-- Moderate reviews and messages if necessary.
-
-**So that:**
-
-- The platform remains secure, trustworthy, and user-friendly for guests and hosts alike.
-
----
+5. **Send Messages**
+   - As a user, I want to send messages to hosts or guests so that I can communicate directly regarding bookings or inquiries.
